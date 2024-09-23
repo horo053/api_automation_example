@@ -1,4 +1,3 @@
-import pytest
 from mimesis import Person
 class CreateUser:
     def positive_create(self):

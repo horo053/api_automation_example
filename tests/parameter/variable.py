@@ -1,3 +1,3 @@
 URL = 'https://reqres.in/'
 
-CRETE_USER = 'api/users'
+URL_FOR_MAIN_METHOD = 'api/users'
